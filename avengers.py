@@ -2,7 +2,7 @@ import random
 
 
 def avengers():
-    name = random.choice(["ironman" , "thor" , "blackwidow" , "captainamerica" , "hulk" , "rocket" , "starlord" , "groot" , "antman"])
+    name = random.choice(["ironman" , "ritesh" , "thor" , "blackwidow" , "captainamerica" , "hulk" , "rocket" , "starlord" , "groot" , "antman"])
     validletters = 'abcdefghijklmnopqrstuvwxyz'
     turns = 10
     guessmade = ''
@@ -145,4 +145,4 @@ print("WELCOME" , user)
 print("***************")
 print("try to guess the word in less than 10 tries by guessing single letter at a time ")
 avengers()
-print("thanks for playing")
+print("thanks for playing by R.k gupta")
